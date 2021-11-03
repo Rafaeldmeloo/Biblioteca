@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1635449085 source:c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\main.cpp
+	"Emprestimo.h"
+	"Clientes.h"
+	"ClienteVip.h"
+	"ClienteNormal.h"
+	"Controle.h"
+	<iostream>
+	<locale.h>
+	<iomanip>
+
+1635449071 c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\include\emprestimo.h
+	<iostream>
+
+1635449190 c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\include\clientes.h
+	"Emprestimo.h"
+
+1635449190 c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\include\clientevip.h
+	"Emprestimo.h"
+
+1635449190 c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\include\clientenormal.h
+	"Emprestimo.h"
+
+1635449071 c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\include\controle.h
+	<iostream>
+
+1635449190 source:c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\src\clientenormal.cpp
+	<iostream>
+	<iomanip>
+	<locale.h>
+	"Clientes.h"
+	"ClienteNormal.h"
+	"Emprestimo.h"
+
+1635449190 source:c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\src\clientes.cpp
+	<iostream>
+	<iomanip>
+	<locale.h>
+	"Clientes.h"
+	"Emprestimo.h"
+
+1635449190 source:c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\src\clientevip.cpp
+	<iostream>
+	<iomanip>
+	<locale.h>
+	"Clientes.h"
+	"ClienteVip.h"
+	"Emprestimo.h"
+
+1635449190 source:c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\src\controle.cpp
+	<iostream>
+	"Controle.h"
+
+1635449190 source:c:\users\rafae\onedrive\documentos\programa플o\adriana\bibliotecanova\src\emprestimo.cpp
+	<iostream>
+	"Emprestimo.h"
+	<locale.h>
+	<iomanip>
+
