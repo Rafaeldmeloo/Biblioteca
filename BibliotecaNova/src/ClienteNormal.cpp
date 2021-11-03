@@ -84,7 +84,7 @@ int ClienteNormal::ExcluirEmprestimo(std::string procuraL, std::string procuraN,
         std::cout << "Prazo de devolução expirado a " << emprestimo.getPrazo() * (-1) << " dia(s)" << std::endl;
         std::cout << "Multa a ser paga: R$" << emprestimo.getPrazo() * (-1) * 2.0 << std::endl;
     }
-        std::cout << "Deseja realmente excluir esse empr?stimo?\n"
+        std::cout << "Deseja realmente excluir esse empréstimo?\n"
                     "1 - Sim\n"
                     "2 - Não" << std::endl;
     int op = 0;
